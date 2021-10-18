@@ -1,7 +1,7 @@
 version: "3"
 services:
   coursematerial:
-    image: devopsdockeruh/coursepage
+    image: j0ne/coursepage
     ports:
       - 4000:80
     container_name: coursematerial
